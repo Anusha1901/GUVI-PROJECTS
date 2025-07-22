@@ -1,7 +1,6 @@
 import streamlit as st
 import sqlite3
 import pandas as pd
-from st_aggrid import AgGrid, GridOptionsBuilder
 
 # Connect to database
 conn = sqlite3.connect('food_storage.db')
