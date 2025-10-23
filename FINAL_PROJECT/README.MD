@@ -153,7 +153,7 @@ This system demonstrates the practical application of AI/ML in healthcare for im
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/healthcare-ai-suite.git
+git clone https://github.com/Anusha1901/GUVI-PROJECTS/FINAL_PROJECT.git
 cd healthcare-ai-suite
 ```
 
@@ -513,15 +513,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/Anusha1901)
+- LinkedIn: [Your Name](https://linkedin.com/in/anushadixit1901)
+- Email: anusha.dixit1901l@gmail.com
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **Anthropic Claude** for AI assistance in development
 - **Streamlit** for the amazing web framework
 - **TensorFlow/Keras** for deep learning capabilities
 - **scikit-learn** for machine learning algorithms
@@ -537,32 +536,6 @@ This system is intended for **educational and research purposes only**. It shoul
 
 ---
 
-## 📞 Support
-
-For support, questions, or feedback:
-- Open an issue on GitHub
-- Email: support@yourdomain.com
-- Documentation: [Wiki](https://github.com/yourusername/healthcare-ai-suite/wiki)
-
----
-
-## 📊 Project Status
-
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
-![Coverage](https://img.shields.io/badge/Coverage-85%25-green)
-
-**Last Updated**: December 2024
-
----
-
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a ⭐️!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/healthcare-ai-suite&type=Date)](https://star-history.com/#yourusername/healthcare-ai-suite&Date)
-
----
 
 <div align="center">
   <p>Made with ❤️ for better healthcare</p>
