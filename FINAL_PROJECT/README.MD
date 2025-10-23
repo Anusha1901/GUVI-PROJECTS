@@ -513,8 +513,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Anusha1901)
-- LinkedIn: [Your Name](https://linkedin.com/in/anushadixit1901)
+- GitHub: [@Anusha1901](https://github.com/Anusha1901)
+- LinkedIn: [Anusha Dixit](https://linkedin.com/in/anushadixit1901)
 - Email: anusha.dixit1901l@gmail.com
 
 ---
