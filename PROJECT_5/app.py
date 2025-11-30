@@ -10,7 +10,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 # -------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("merged_books.csv")  # update with your file path
+    df = pd.read_csv("PROJECT_5", "merged_books.csv")  # update with your file path
     df['Primary_Genre'] = df['Ranks and Genre'].str.extract(r'in (.*?)\s*\(')
     df['Combined_Features'] = (
         df['Description'].fillna('') + " " +
@@ -98,3 +98,4 @@ ax.set_xscale("log")
 st.pyplot(fig)
 
 st.markdown("✅ End of Analysis. Use the sidebar to explore recommendations!")
+
